@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	font-size:30px;
+}
+#container{
+	display:inline-block;
+	height:50px;
+	width:60px;
+}
+.container1{
+	background-color:red;
+	height:200px;
+	width:200px;
+}
+.container2{
+	background-color:blue;
+	height:200px;
+	width:200px;
+}
+.container3{	
+	background-color:green;
+	height:200px;
+	width:200px;
+}
+
+
+
+
